@@ -14,6 +14,7 @@ To use Wordle Solver:
    
 ## Directory Structure
 /run_all/: Contains a list of all runs using various seed words (salet, soare, raise, clout, nymph) using all possible words in the heuristic functions.
+
 /run_all_answers/: Uses the exact seed words but only considers the answers list in the heuristic functions.
 
 ## How it Works
